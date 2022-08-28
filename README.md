@@ -16,7 +16,7 @@ Before running the scripts, please make sure to install in advance the following
 - dlib for machine learning
 
 # Usage of automated lipstick
-In a terminal type: `python im_lipstick.py -f path_to_file -a hue_value -b True`
+Navigate to the script directory and type in a terminal: `python im_lipstick.py -f path_to_file -a hue_value -b True`
 
 ## Explanation:
 - -f refers to the full path of the image you want to apply lipstick.
