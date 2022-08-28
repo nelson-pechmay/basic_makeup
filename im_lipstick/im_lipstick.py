@@ -21,7 +21,7 @@ landmarkDetector = dlib.shape_predictor( PREDICTOR_PATH )
 # default inputs:
 hue = 332.
 save = False
-print( "USAGE : python im_lipstick.py -f file.jpg -hu hue value ( default : 332. )" )
+print( "USAGE : python im_lipstick.py -f file.jpg -a hue value ( default : 332. ) -b save output? ( default : False )" )
 
 # input arguments:
 ap = argparse.ArgumentParser()
