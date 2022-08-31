@@ -44,6 +44,8 @@ In this case, the *hue* of each iris can be set independently (as in the example
 Input image                   |  Lipstick applied
 :----------------------------:|:--------------------------------------:
 ![](data/girl-no-makeup.jpg)  |  ![](data/girl-no-makeup_lipstick.jpg)
+Input image                   |  Eye-color applied
+:----------------------------:|:--------------------------------------:
 ![](data/girl-no-makeup_lipstick.jpg)  |  ![](data/girl-no-makeup_lipstick_eyecolor.jpg)
 # TODOs
 - Implement the case when the lips are not close to each other in the lipstick script.
